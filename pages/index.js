@@ -45,8 +45,16 @@ export default function Home() {
 	return (
 		<div className={styles.container}>
 			<Head>
-				<title>Url Shortner</title>
-				<meta name="description" content="Url Shortner by Bravo68Web" />
+				<title>Url Shortner | Chirag Bhalota | Bravo</title>
+				<meta
+					name="description"
+					content="Easily shorten your long urls for free | One Click Free URL Shortner by Chirag Bhalotia and Bravo | Shorten unlimited urls free forever"
+				/>
+				<meta
+					name="keywords"
+					content="URL, shortner, reduce url size, chirag,bravo,bhalotia"
+				/>
+				<meta name="author" content="Chirag Bhalotia, Bravo" />
 				<link rel="icon" href="/favicon.png" />
 			</Head>
 
