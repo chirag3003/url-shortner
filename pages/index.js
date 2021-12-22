@@ -47,7 +47,7 @@ export default function Home() {
 			<Head>
 				<title>Url Shortner</title>
 				<meta name="description" content="Url Shortner by Bravo68Web" />
-				<link rel="icon" href="/favicon.ico" />
+				<link rel="icon" href="/favicon.png" />
 			</Head>
 
 			<main className={styles.main}>
