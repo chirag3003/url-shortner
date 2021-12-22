@@ -24,6 +24,10 @@
 	text-align: center;
 }
 
+.footer p a {
+	text-decoration: underline;
+}
+
 .title {
 	margin: 0;
 	line-height: 1.15;
